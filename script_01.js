@@ -64,7 +64,7 @@ job = "diver";          // .. taucht im Rhein!
 job = "artist";         // .. malt ein Bild!
 job = "pilot";          // .. macht etwas anderes! --> default
 job = "teacher";        // .. unterrichtet!
-job = "instructor";     // .. unterrichtet!
+// job = "instructor";     // .. unterrichtet!
 
 switch (job) {
     case "driver":
